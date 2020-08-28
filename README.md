@@ -2,14 +2,11 @@
 
  ## Interactive Calculator with beautiful UI
  ![Screenshot](Screenshot.png)
+Remembers Previous Answers and Allows User to Perform Operations On Them
 
-## Remembers Previous Answers and Allows User to Perform Operations On Them
+Supports Split Screen
 
-I learnt about implementation of functions and classes in Dart.
-
-It is a wonderful language with all the nice parts from other languages.
-
-Flutter makes App development fun.
+Flutter makes App development fun and.
 
 
-### Download Android Arm64 app from [here](https://rb.gy/tprobu).
+### Download Android app from [here](https://drive.google.com/file/d/1Y0_-S7M5x7pNttHjHeWhu7fZz3HitNoV/view).
