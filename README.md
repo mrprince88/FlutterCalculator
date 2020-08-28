@@ -1,16 +1,15 @@
-# calculator
+# Flutter Calculator
 
-flutter calculator
+ ## Interactive Calculator with beautiful UI
+ ![Screenshot](Screenshot.png)
 
-## Getting Started
+## Remembers Previous Answers and Allows User to Perform Operations On Them
 
-This project is a starting point for a Flutter application.
+Developing this app was fun. I learnt about implementation of functions and classes in Dart.
 
-A few resources to get you started if this is your first Flutter project:
+It is a wonderful language with all the nice parts from other languages.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Flutter makes android development fun.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Download Android Arm64 app from [here](shorturl.at/dpUW5).
