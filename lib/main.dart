@@ -165,7 +165,8 @@ class _HomePageState extends State<HomePage> {
                   return MyButton(
                     onPress: () {
                       setState(() {
-                        if (!(isOperator(question[question.length - 1]) &&
+                        if ( (question[question.length-1]=="s" && !isOperator(buttons[index])? false:true) &&
+                        !(isOperator(question[question.length - 1]) &&
                             isOperator(buttons[index])) &&
                             question.length <= 50)
                           question += buttons[index];
