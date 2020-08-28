@@ -9,7 +9,7 @@ Developing this app was fun. I learnt about implementation of functions and clas
 
 It is a wonderful language with all the nice parts from other languages.
 
-Flutter makes android development fun.
+Flutter makes App development fun.
 
 
 ### Download Android Arm64 app from [here](shorturl.at/dpUW5).
