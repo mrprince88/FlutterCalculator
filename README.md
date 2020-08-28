@@ -12,4 +12,4 @@ It is a wonderful language with all the nice parts from other languages.
 Flutter makes App development fun.
 
 
-### Download Android Arm64 app from [here](shorturl.at/dpUW5).
+### Download Android Arm64 app from [here](https://rb.gy/tprobu).
